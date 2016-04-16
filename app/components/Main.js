@@ -1,6 +1,5 @@
-var React = require('react');
-var SearchGithub = require('./SearchGithub');
-
+import React from 'react';
+import SearchGithub from './SearchGithub';
 
 var Main = React.createClass({
     render: function() {
